@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:00:00.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-08-29T19:00:00.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1950,
+      "createdAt": "2022-09-29T19:00:00.505Z"
+    },
+    {
+      "description": "Pizza",
+      "category": "Alimentação",
+      "price": 66,
+      "type": "outcome",
+      "createdAt": "2024-03-24T23:14:13.561Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2024-03-24T23:59:34.778Z",
+      "id": 5
+    }
+  ]
+}
